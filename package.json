@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/will2codefresher/onekey-git-merger/issues"
   },
-  "homepage": "https://github.com/will2codefresher/onekey-git-merger#readme"
+  "homepage": "https://github.com/will2codefresher/onekey-git-merger#readme",
+  "devDependencies": {
+    "electron": "^3.0.8"
+  }
 }
